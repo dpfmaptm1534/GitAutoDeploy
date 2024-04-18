@@ -2,6 +2,7 @@
 깃 자동 배포
 
 개발환경
+- Windows, 윈도우 batch파일 이용
 - 전자정부프레임워크 3.1
 - Spring
 - Java
